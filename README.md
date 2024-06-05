@@ -1,1 +1,1 @@
-# Calculadora-de-Gorjeta-Javascript
+# Calculadora de Gorjeta em Javascript
